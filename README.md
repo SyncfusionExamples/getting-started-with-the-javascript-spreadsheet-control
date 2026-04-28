@@ -2,11 +2,6 @@
 
 A quick-start project that helps you create and configure the Syncfusion JavaScript (TypeScript) Spreadsheet component using Essential JS 2.
 
-## Documentation
-
-- Getting Started Guide: https://help.syncfusion.com/document-processing/excel/spreadsheet/javascript-es6/getting-started
-- Online Demo: https://document.syncfusion.com/demos/spreadsheet-editor/javascript/#/tailwind3/spreadsheet/default.html
-
 ## Project Prerequisites
 
 - Node.js (v14.15.0 or higher)
@@ -26,3 +21,8 @@ A quick-start project that helps you create and configure the Syncfusion JavaScr
    npm start
    ```
 5. Open the application URL shown in the terminal.
+
+## Documentation
+
+- Getting Started Guide: https://help.syncfusion.com/document-processing/excel/spreadsheet/javascript-es6/getting-started
+- Online Demo: https://document.syncfusion.com/demos/spreadsheet-editor/javascript/#/tailwind3/spreadsheet/default.html
