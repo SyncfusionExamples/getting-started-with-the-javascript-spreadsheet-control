@@ -1,6 +1,6 @@
 # Getting Started with the JavaScript Spreadsheet Component
 
-A quick-start project that helps you create and configure the Syncfusion JavaScript (TypeScript) Spreadsheet component using Essential JS 2.
+A quick-start project that helps you create and configure the [JavaScript (TypeScript) Spreadsheet](https://www.syncfusion.com/spreadsheet-editor-sdk/javascript-spreadsheet-editor) component using Essential JS 2.
 
 ## Project Prerequisites
 
